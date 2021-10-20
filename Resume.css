@@ -1,0 +1,347 @@
+body{
+    background-image: url(Images/jess-bailey-q10VITrVYUM-unsplash\(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-blend-mode: soft-light; */
+    /* height: 1200px; */
+}
+.parent{
+    width: 945px;
+    border: 1px solid white;
+    margin-top: 50px;
+    margin-left: 213px;
+    height: 1200px;
+    position: relative;
+    background-color: white;
+    margin-bottom: 45px;
+}
+.child{
+    position: absolute;
+    background-color:  	#535252;
+    height: 145px;
+    width: 945px;
+}
+h1{
+    position: absolute;
+    left: 632px;
+    top: 40px;
+    color: white;
+    font-family: 'Scheherazade New', serif;
+}
+h6{
+    position: absolute;
+    left: 681px;
+    top: 80px;
+    color: white;
+}
+.child1{
+    position: absolute;
+top: 27px;
+background-color: #ffe4e1;
+height: 1130px;
+width: 334px;
+left: 20px;
+}
+
+#photo{
+    height: 166px;
+width: 171px;
+position: absolute;
+top: 67px;
+left: 68px;
+}
+#phead{
+    position: absolute;
+top: 330px;
+left: 40px;
+font-size: 14px;
+color: rgb(88, 36, 141);
+font-weight: 800;
+
+
+}
+#add{
+    position: absolute;
+top: 394px;
+left: 60px;
+font-size: 14px;
+}
+#phone{
+    position: absolute;
+top: 443px;
+left: 59px;
+font-size: 14px;
+
+}
+#gmail{
+    position: absolute;
+top: 490px;
+left: 60px;
+font-size: 14px;
+
+}
+#ihead{
+    position: absolute;
+top: 454px;
+left: 35px;
+height: 22px;
+width: 18px;
+}
+#iadd{
+    position: absolute;
+top: 404px;
+left: 35px;
+height: 22px;
+width: 21px;
+}
+#igmail{
+    position: absolute;
+    top: 500px;
+    left: 35px;
+    height: 22px;
+    width: 18px;
+
+}
+#ehead{
+    position: absolute;
+    top: 605px;
+    left: 35px;
+    font-size: 14px;
+    color: rgb(88, 36, 141);
+    font-weight: 800;
+
+
+}
+#ss{
+    position: absolute;
+    top: 880px;
+left: 35px;
+font-size: 14px;
+color: rgb(88, 36, 141);
+font-weight: 800;
+
+
+}
+#eschool{
+    position: absolute;
+top: 663px;
+left: 117px;
+font-size: 14px;
+
+
+}
+#pl1{
+    position: absolute;
+    top: 930px;
+    left: 125px;
+    font-size: 14px;
+
+
+}
+#ehse{
+    position: absolute;
+top: 717px;
+left: 115px;
+font-size: 14px;
+}
+#ds1{
+    position: absolute;
+top: 974px;
+left: 172px;
+font-size: 14px;
+}
+#fe1{
+    position: absolute;
+    top: 1017px;
+    left: 143px;
+    font-size: 14px;
+
+}
+#ts1{
+    position: absolute;
+    top: 1055px;
+    left: 143px;
+    font-size: 14px;
+
+}
+#edeg{
+    position: absolute;
+    top: 765px;
+    left: 117px;
+    font-size: 14px;
+
+}
+#sslc{
+    position: absolute;
+top: 656px;
+left: 35px;
+color: black;
+}
+#pl{
+    position: absolute;
+    top: 920px;
+    left: 35px;
+    color: black;
+}
+#hse{
+    position: absolute;
+top: 709px;
+left: 35px;
+color: black;
+}
+#ds{
+    position: absolute;
+top: 965px;
+left: 35px;
+color: black;
+
+}
+#fe{
+    position: absolute;
+top: 1008px;
+left: 35px;
+color: black;
+
+}
+#ts{
+    position: absolute;
+top: 1048px;
+left: 35px;
+color: black;
+
+}
+#bca{
+    position: absolute;
+    top: 756px;
+    left: 35px;
+    color: black;
+}
+
+#career{
+    height: 46px;
+width: 513px;
+position: absolute;
+top: 187px;
+left: 397px;
+background-color: #ffe4e1;
+text-align: center;
+font-size: small;
+}
+
+#pcar{
+    position: absolute;
+top: 50px;
+left: 0px;
+font-size: 18px;
+}
+#pe{
+    height: 31px;
+    width: 513px;
+    position: absolute;
+    top: 131px;
+    left: 1px;
+    background-color: #ffe4e1;
+    text-align: center;
+    font-size: small;
+    padding-top: 13px;
+}
+#exp1{
+    position: absolute;
+    top: 210px;
+    left: 0px;
+    font-size: 18px;
+}
+#exp2{
+    position: absolute;
+top: 287px;
+left: -13px;
+font-size: 18px;
+}
+#rp{
+    height: 31px;
+    width: 513px;
+    position: absolute;
+    top: 364px;
+    left: 1px;
+    background-color: #ffe4e1;
+    text-align: center;
+    font-size: small;
+    padding-top: 13px;
+}
+#id1{
+    position: absolute;
+    top: 446px;
+    left: 29px;
+    font-size: 18px;
+}
+#id2{
+    position: absolute;
+top: 480px;
+left: 29px;
+font-size: 18px;
+}
+#id3{
+    position: absolute;
+top: 513px;
+left: 19px;
+font-size: 18px;
+}
+#id4{
+    position: absolute;
+    top: 560px;
+    left: 30px;
+    font-size: 18px;
+
+}
+#id5{
+    position: absolute;
+    top: 590px;
+    left: 19px;
+    font-size: 18px;
+    padding-right: 56px;
+
+}
+#id6{
+    position: absolute;
+top: 638px;
+left: 29px;
+font-size: 18px;
+
+}
+#te{
+    height: 31px;
+    width: 513px;
+    position: absolute;
+    top: 682px;
+    left: 1px;
+    background-color: #ffe4e1;
+    text-align: center;
+    font-size: small;
+    padding-top: 13px;
+}
+#te1{
+    position: absolute;
+    top: 743px;
+    left: 3px;
+    font-size: 18px;
+
+}
+#dr{
+    height: 31px;
+width: 513px;
+position: absolute;
+top: 825px;
+left: 1px;
+background-color: #ffe4e1;
+text-align: center;
+font-size: small;
+padding-top: 13px;
+}
+#dr1{
+    position: absolute;
+    top: 883px;
+    left: 3px;
+    font-size: 18px;
+
+
+}
